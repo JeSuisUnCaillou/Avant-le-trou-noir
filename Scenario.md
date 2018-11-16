@@ -2,7 +2,7 @@
 
 Je suis le Capitaine de Cerf-Volant, la dernière station spatiale avant le trou noir B22-564, ou Boréal comme on l'appelle. C'est le plus gros trou répertorié et accessible aujourd'hui, même si "aujourd'hui" est une notion assez vague ici.
 
-Ici quand on a la vision 360° du cockpit, Boréal occuppe à peu près quarante pourcent de tout notre champ de vision. Le reste c'est tout l'univers, derrière nous. Je dis "derrière nous" par ce qu'on regarde toujours vers Boréal. En tout cas tous ceux qui viennent ici, ils le regardent, le sondent. Boréal, c'est "devant". Par ce que si tu t'es retrouvé sur Cerf-Volant, c'est que t'es venu pour Boréal. C'est comme ça. De toutes façons y'a rien d'autre dans les parages à des années lumières à la ronde, Il est simplement trop énorme. Il dévore tout.
+Ici quand on a la vision 360° du cockpit, Boréal occuppe à peu près 40% de tout notre champ de vision. Le reste c'est tout l'univers, derrière nous. Je dis "derrière nous" par ce qu'on regarde toujours vers Boréal. En tout cas tous ceux qui viennent ici, ils le regardent, le sondent. Boréal, c'est "devant". Par ce que si tu t'es retrouvé sur Cerf-Volant, c'est que t'es venu pour Boréal. C'est comme ça. De toutes façons y'a rien d'autre dans les parages à des années lumières à la ronde, Il est simplement trop énorme. Il dévore tout.
 
 Pourquoi Cerf-Volant ne tombe pas dans le trou ? Déjà si tu veux pouvoir maintenir la masse d'un vaisseau en orbite stable autour de Boréal, t'as pas intérêt à chier ton entrée. T'auras pas de deuxième chance. Maintenant imagine que t'es de la taille d'une station spatiale avec une capacité de 5 000 êtres. Ben j'peux te dire que la différence de masse, tu la sens bien quand t'es aux commandes. Beaucoup ont essayé, mais je suis le seul a avoir réussi "aujourd'hui". Ne pense même pas à construire une station sur place, y'a pas de matériaux, rien.
 
@@ -17,3 +17,5 @@ Ok.
 À un moment donné, vous vous demandez comment je suis arrivé à piloter seul une station _massive_ sur une orbite aussi délicate. Eh bien figurez-vous qu'on peut brancher son sens de la pesanteur à une machine pour ressentir la courbure locale de l'espacetemps, et ensuite ça devient comme un jeu de glisse. C'est comme faire du ski sur la pente infiniement lisse de l'espacetemps aux abords de Boréal. Et le but du jeu, c'est de trouver l'angle parfait, associé à la vitesse parfaite, à l'endroit parfait et au moment parfait.
 
 Et une fois que tu touches ce point parfait, tu le ressens. C'est comme si d'un coup la pente avait disparue, sauf que tu continues de glisser quand même, tu vois ?.. Non tu ne vois pas. Il faut l'avoir ressenti pour le comprendre, ça.
+
+Ouais, je me la raconte encore, à propos d'un truc qui s'est passé il y a 54 ans, je sais.
