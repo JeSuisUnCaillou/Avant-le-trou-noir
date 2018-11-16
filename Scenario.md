@@ -6,6 +6,6 @@ Ici quand on a la vision 360° du cockpit, Boréal occuppe à peu près 40% de t
 
 Pourquoi Cerf-Volant ne tombe pas ? Déjà si tu veux pouvoir maintenir la masse d'un vaisseau en orbite stable autour de Boréal, t'as pas intérêt à chier ton entrée. T'auras pas de deuxième chance. Maintenant imagine que t'es de la taille d'une station spatiale avec une capacité de 50 000 êtres. Ben j'peux te dire que la différence de masse, tu la sens bien quand t'es aux commandes. Beaucoup ont essayé, mais je suis le seul a avoir réussi "aujourd'hui". Ne pense même pas à la construire sur place, y'a pas de matériaux.
 
-Dans mon propre temps relatif, ça fait 54 ans que j'ai réussi cette manoeuvre. J'ai visé une orbite assez éloignée pour que la masse de ma station puisse permettre à de petits vaisseaux de s'ammarrer sans tomber dans le trou. Mais passé mon orbite, si tu veux te rapprocher de Boréal, t'as intérêt a avoir la masse de carburant, en tout cas si tu comptes revenir.
+Dans mon propre temps relatif, ça fait 54 ans que j'ai réussi cette manoeuvre. J'ai visé une orbite assez éloignée pour que la masse de ma station puisse permettre à de petits vaisseaux de s'ammarrer sans tomber dans le trou. Mais passé mon orbite, si tu veux te rapprocher de Boréal, t'as intérêt a avoir une race de carburant, en tout cas si tu comptes revenir.
 
 Du coup tous ceux qui font ça, ils y vont pas pour revenir. Tous ceux qui empruntent la rampe de sortie avant ne reviennent jamais.
