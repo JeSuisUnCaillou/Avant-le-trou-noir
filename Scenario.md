@@ -11,3 +11,7 @@ Dans mon propre temps relatif, ça fait 54 ans que j'ai réussi cette manoeuvre,
 Dans ma station, y'a toutes sortes de gens qui passent, mais très peu qui restent. Tous finissent un jour par partir par une rampe de lancement à l'avant. Et tous ceux qui empruntent une des rampes de lancement à l'avant ne reviennent jamais. Depuis que j'ai réussi la manoeuvre, j'ai vu passer 37 000 êtres. À peu de choses près, selon les logs.
 
 Et sur les 37 000, seuls 4 sont repartis vers l'arrière. Tous les autres sont restés, partis vers l'avant, ou morts ici.
+
+Ok.
+
+À un moment donné, vous vous demandez comment je suis arrivé à piloter seul une station _massive_ sur une orbite aussi délicate.
