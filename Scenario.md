@@ -14,4 +14,4 @@ Et sur les 37 000, seuls 4 sont repartis vers l'arrière. Tous les autres sont r
 
 Ok.
 
-À un moment donné, vous vous demandez comment je suis arrivé à piloter seul une station _massive_ sur une orbite aussi délicate.
+À un moment donné, vous vous demandez comment je suis arrivé à piloter seul une station _massive_ sur une orbite aussi délicate. Eh bien figurez-vous qu'on peut brancher son sens de la pesanteur à une machine pour ressentir la courbure locale de l'espacetemps, et ensuite ça devient comme un jeu de glisse. C'est comme faire du ski sur la pente infiniement lisse de l'espacetemps aux abords de Boréal. Et le but du jeu, c'est de trouver l'angle parfait, associé à la vitesse parfaite, à l'endroit parfait et au moment parfait.
