@@ -8,6 +8,4 @@ Pourquoi Cerf-Volant ne tombe pas ? Déjà si tu veux pouvoir maintenir la masse
 
 Dans mon propre temps relatif, ça fait 54 ans que j'ai réussi cette manoeuvre, et je n'ai jamais retouché aux commandes depuis. J'ai visé une orbite assez éloignée pour que la masse de ma station puisse permettre à de petits vaisseaux de s'ammarrer sans tomber dans le trou. Mais passé l'influence de ma station, si tu veux te rapprocher de Boréal, t'as intérêt a avoir une race de carburant, en tout cas si tu comptes revenir.
 
-Tous ceux qui empruntent une des rampes de sortie à l'avant ne reviennent jamais.
-
-Dans ma station, y'a toutes sortes d'humains qui vivent. Mais ceux
+Dans ma station, y'a toutes sortes de gens qui passent, mais très peu qui restent. Tous finissent un jour par partir par une rampe de lancement à l'avant. Et tous ceux qui empruntent une des rampes de lancement à l'avant ne reviennent jamais.
