@@ -10,7 +10,7 @@ Dans mon propre temps relatif, ça fait 54 ans que j'ai réussi cette manoeuvre,
 
 Dans ma station, y'a toutes sortes de gens qui passent, mais très peu qui restent. Tous finissent un jour par partir par une rampe de lancement à l'avant. Et tous ceux qui empruntent une des rampes de lancement à l'avant ne reviennent jamais. Depuis que j'ai réussi la manoeuvre, j'ai vu passer 37 000 êtres. À peu de choses près, selon les logs.
 
-Et sur les 37 000, seuls 4 sont repartis vers l'arrière. Tous les autres sont restés, partis vers l'avant, ou morts ici.
+Nous sommes 236 êtres sur la station "aujourd'hui", et de toute l'histoire de la station, seuls 4 sont repartis vers l'arrière, et tous les autres partis vers l'avant.
 
 Ok.
 
@@ -18,4 +18,4 @@ Ok.
 
 Et une fois que tu touches ce point parfait, tu le ressens. C'est comme si d'un coup la pente avait disparue, sauf que tu continues de glisser quand même, tu vois ?.. Non tu ne vois pas. Il faut l'avoir ressenti pour le comprendre, ça.
 
-Ouais, je me la raconte encore, à propos d'un truc qui s'est passé il y a 54 ans, je sais.
+Ouais, je me la raconte encore, à propos d'un truc qui s'est passé il y a 54 ans, je sais. Mais vous auriez dû voir tous les premiers vaisseaux s'ammarrer, c'était fou. J'ai baigné dans une euphorie constante pendant trois mois et puis... Et puis j'ai remarqué un vaisseau partir vers l'avant. C'était un Airbus, j'me souviens. Un de ces petits modèles rouges pétant qu'ils font pour les ados.
