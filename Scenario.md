@@ -8,4 +8,4 @@ Si tu veux pouvoir maintenir la masse d'un vaisseau en orbite stable autour de B
 
 Dans mon propre temps relatif, ça fait 54 ans que j'ai réussi cette manoeuvre. J'ai visé une orbite assez éloignée pour que la masse de ma station puisse permettre à de petits vaisseaux de s'ammarrer sans tomber dans le trou. Mais passé mon orbite, si tu veux te rapprocher de Boréal, t'as intérêt a avoir la masse de carburant, en tout cas si tu comptes revenir.
 
-Du coup tous ceux qui font ça, ils y vont pas pour revenir. Tous ceux qui emprunte la rampe de sorti avant ne reviennent jamais.
+Du coup tous ceux qui font ça, ils y vont pas pour revenir. Tous ceux qui empruntent la rampe de sortie avant ne reviennent jamais.
