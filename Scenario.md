@@ -1,6 +1,6 @@
 # Avant le trou noir
 
-Je suis le Capitaine de Cerf-Volant, la dernière station spatiale avant le trou noir B22-564, ou Boréal comme on l'appelle. C'est le plus gros trou répertorié et accessible aujourd'hui, même si ici "aujourd'hui" est une notion assez vague.
+Je suis le Capitaine de Cerf-Volant, la dernière station spatiale avant le trou noir B22-564, ou Boréal comme on l'appelle. C'est le plus gros trou répertorié et accessible aujourd'hui, même si "aujourd'hui" est une notion assez vague ici.
 
 Ici quand on a la vision 360° du cockpit, Boréal occuppe à peu près quarante pourcent de tout notre champ de vision. Le reste c'est tout l'univers, derrière nous. Je dis "derrière nous" par ce qu'on regarde toujours vers Boréal. En tout cas tous ceux qui viennent ici, ils le regardent, le sondent. Boréal, c'est "devant". Par ce que si tu t'es retrouvé sur Cerf-Volant, c'est que t'es venu pour Boréal. C'est comme ça. De toutes façons y'a rien d'autre dans les parages à des années lumières à la ronde, Il est simplement trop énorme. Il dévore tout.
 
