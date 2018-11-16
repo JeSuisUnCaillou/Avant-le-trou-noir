@@ -1,4 +1,4 @@
-# La dernière station avant le trou noir
+Avant le trou noir
 
 Je suis le Capitaine de Cerf-Volant, la dernière station spatiale avant le trou noir B22-564, ou Boréal comme on l'appelle couramment. C'est le plus gros trou répertorié accessible aujourd'hui, même si ici "aujourd'hui" est une notion assez vague.
 
