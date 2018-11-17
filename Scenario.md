@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.com/JeSuisUnCaillou/Avant-le-trou-noir/blob/master/banner.jpg)
+![banner](https://github.com/JeSuisUnCaillou/Avant-le-trou-noir/blob/master/banner.jpg)
 
 # Avant le trou noir
 
