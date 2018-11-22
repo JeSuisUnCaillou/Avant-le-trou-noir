@@ -28,6 +28,6 @@ C'est à ce moment là que je me suis rendu compte que l'intégralité des être
 
 Et on a vu.
 
-C'est difficile à décrire, ce qu'on a vu. Mais ce qui est parfaitement certain, c'est que lui ressentait quelque chose de radicalement différent de ce qu'on voyait depuis ma station. Il était resté en communication permanente jusqu'au dernier moment, et si il était conscient de la déformation qu'on le voyait subir, il n'en laissait rien paraître. Il se contentait de lire à haute voix son altitude par rapport au trou de manière monotone, régulièrement, tel un métronome bien réglé. Puis au bout d'un temps qui nous a paru durer une éternité, sa voix s'est éteinte, immédiatement suivie de son image.
+C'est difficile à décrire, ce qu'on a vu. Mais ce qui est parfaitement certain, c'est qu'il avait un ressenti radicalement différent de ce qu'on voyait depuis ma station. Il était resté en communication vocale permanente jusqu'au dernier moment, et si il était conscient de la déformation qu'on le voyait subir, il n'en laissait absolument rien paraître. Il se contentait de lire à haute voix son altitude par rapport au trou de manière monotone, régulièrement, tel un métronome bien réglé. Puis au bout d'un temps qui nous a paru durer une éternité, sa voix s'est éteinte, immédiatement suivie de son image.
 
 Il avait disparu pour de bon de notre Univers.
