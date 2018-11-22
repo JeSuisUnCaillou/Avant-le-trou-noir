@@ -25,3 +25,9 @@ Ouais, je me la raconte encore, à propos d'un truc qui s'est passé il y a 54 a
 Le type avait craqué. C'était un éminent chercheur qui avait passé sa vie à étudier les trous. Il devait sans doute être celui qui détenait la plus profonde compréhension des lois de la physique telles qu'on les connaissait, et j'aime à croire que c'est à cause de ça qu'il a craqué le premier. Il était un des premiers à être arrivé sur ma station, et il avait passé son temps à enseigner avec passion à tous ceux qui voulaient bien l'écouter. Et puis il est parti vers l'avant.
 
 C'est à ce moment là que je me suis rendu compte que l'intégralité des êtres présents sur ma station étaient venus pour voir ça. La station a soudainement été baignée d'un silence absolu. Tous regardions le petit Scoot rouge s'éloigner pour enfin voir ce qui allait lui arriver.
+
+Et on a vu.
+
+C'est difficile à décrire, ce qu'on a vu. Mais ce qui est parfaitement certain, c'est que lui ressentait quelque chose de radicalement différent de ce qu'on voyait depuis ma station. Il était resté en communication permanente jusqu'au dernier moment, et si il était conscient de la déformation qu'on le voyait subir, il n'en laissait rien paraître. Il se contentait de lire à haute voix son altitude par rapport au trou de manière monotone, régulièrement, tel un métronome bien réglé. Puis au bout d'un temps qui nous a paru durer une éternité, sa voix s'est éteinte, immédiatement suivie de son image.
+
+Il avait disparu pour de bon de notre Univers.
