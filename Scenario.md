@@ -38,7 +38,7 @@ Puis au bout d'un temps qui nous a paru durer une éternité, sa voix s'est éte
 
 Ce fut comme un déclic pour la population de la station. Tous attendaient cette confirmation, consciemment ou non : Ça ne faisait pas mal de tomber dans Boréal, au moins jusqu'à l'horizon.
 
-C'est ce jour là qu'on a enregistré le premier départ d'un être en direction de l'univers. C'était sa compagne, qui retournait auprès de leur famille pour faire son deuil. L'histoire de son mari, et au passage l'histoire de ma station, fera le tour de la galaxie grâce à elle. Elle fut notre premier messager.
+C'est ce jour là qu'on a enregistré le premier départ d'un être en direction de l'univers. C'était sa compagne, qui retournait auprès de leur famille pour faire son deuil. L'histoire de son mari, et au passage l'histoire de ma station, fera le tour de la galaxie grâce à elle. Elle fut notre première messagère, malgré elle.
 
 Oui par ce qu'il faut comprendre un truc là. Aux abords de Boréal, le puits de gravité est tellement fort qu'il est quasiement impossible de communiquer avec l'extérieur. En tout cas il est impossible de communiquer de manière subtile et complexe. On est limité à une quantité d'informations extrèmement minimale.
 
