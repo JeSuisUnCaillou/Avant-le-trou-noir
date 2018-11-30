@@ -36,7 +36,7 @@ C'est difficile à décrire, ce qu'on a vu. Mais ce qui est parfaitement certain
 
 Puis au bout d'un temps qui nous a paru durer une éternité, sa voix s'est éteinte, immédiatement suivie de son image. Il avait disparu pour de bon de notre Univers.
 
-Ce fut comme un déclic pour la population de la station. Tous attendaient cette confirmation, consciemment ou non : Ça ne faisait pas mal.
+Ce fut comme un déclic pour la population de la station. Tous attendaient cette confirmation, consciemment ou non : Ça ne faisait pas mal de tomber dans Boréal, au moins jusqu'à l'horizon.
 
 C'est ce jour là qu'on a enregistré le premier départ d'un être en direction de l'univers. C'était sa compagne, qui retournait auprès de leur famille pour faire son deuil. L'histoire de son mari, et au passage l'histoire de ma station, fera le tour de la galaxie grâce à elle. Elle fut notre premier messager.
 
