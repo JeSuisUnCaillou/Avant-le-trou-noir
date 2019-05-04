@@ -1,12 +1,20 @@
 ![GitHub Logo](https://github.com/JeSuisUnCaillou/Avant-le-trou-noir/blob/master/banner.jpg)
 
-# Avant le trou noir
+Imagine ceci sur un site "genre news du futur".
 
-Je suis le Capitaine de Cerf-Volant, la dernière station spatiale avant le trou noir B22-564, ou Boréal comme on l'appelle. C'est le plus gros trou répertorié et accessible aujourd'hui, même si "aujourd'hui" est une notion assez vague ici.
+# La dernière station avant le trou noir
 
-Ici quand on a la vision 360° du cockpit, Boréal occuppe à peu près 40% de tout notre champ de vision. Le reste c'est tout l'univers, derrière nous. Je dis "derrière nous" par ce qu'on regarde toujours vers Boréal. En tout cas tous ceux qui viennent ici, ils le regardent, le sondent. Boréal, c'est "devant". Par ce que si tu t'es retrouvé sur Cerf-Volant, c'est que t'es venu pour Boréal. C'est comme ça. De toutes façons y'a rien d'autre dans les parages à des années lumières à la ronde, Il est simplement trop énorme. Il dévore tout.
+Depuis que l'humanité s'est étendue hors de la planète Terre il y a douze siècles - Gosh I sound like any twelve years old starting a 1200 characters tweet nowadays - elle a colonisé tous les systèmes à XXX années lumières à la ronde de la Terre Mère. 80% des YYY systèmes de ce morceau d'univers n'ont pas au moins une Station habitée en orbite. Et vous savez ce qu'on dit, 20% d'efforts pour 80% du résultat. Ca n'a même pas eu l'air d'avoir été si difficile, finalement.
 
-Pourquoi Cerf-Volant ne tombe pas dans le trou ? Déjà si tu veux pouvoir maintenir la masse d'un vaisseau en orbite stable autour de Boréal, t'as pas intérêt à chier ton entrée. T'auras pas de deuxième chance. Maintenant imagine que t'es de la taille d'une station spatiale avec une capacité de 5 000 êtres. Ben j'peux te dire que la différence de masse, tu la sens bien quand t'es aux commandes. Beaucoup ont essayé, mais je suis le seul a avoir réussi "aujourd'hui". Ne pense même pas à construire une station sur place, y'a pas de matériaux, rien.
+Oui, et le trou noir ? Bla blabla ?
+
+A la frange de l'Espace Colonisé, il y a un trou noir. LE trou noir de l'humanité. 
+
+Je vais vous interviewer xXx_Mandela_xXx, le capitaine de La dernière statation spatiale avant le trou noir B22-564, aussi surnommé Boréal. C'est le plus gros trou répertorié et accessible aujourd'hui, même si "aujourd'hui" est une notion assez vague ici.
+
+Dans cette station quand on a la vision 360° du cockpit, Boréal occuppe à peu près 40% de tout notre champ de vision. Le reste c'est tout l'univers, derrière nous. Je dis "derrière nous" par ce qu'on regarde toujours vers Boréal. En tout cas tous ceux qui viennent ici, ils le regardent, le sondent. Boréal, c'est "devant". Par ce que si tu t'es retrouvé sur Cerf-Volant, c'est que t'es venu pour Boréal. C'est comme ça. De toutes façons y'a rien d'autre dans les parages à des années lumières à la ronde, Il est simplement trop énorme. Il dévore tout.
+
+Pourquoi CV ne tombe pas dans le trou ? Déjà si tu veux pouvoir maintenir la masse d'un vaisseau en orbite stable autour de Boréal, t'as pas intérêt à chier ton entrée. T'auras pas de deuxième chance. Maintenant imagine que t'es de la taille d'une station spatiale avec une capacité de 5 000 êtres. Ben j'peux te dire que la différence de masse, tu la sens bien quand t'es aux commandes. Beaucoup ont essayé, mais je suis le seul a avoir réussi "aujourd'hui". Ne pense même pas à construire une station sur place, y'a pas de matériaux, rien.
 
 Dans mon propre temps relatif, ça fait 54 ans que j'ai réussi cette manoeuvre, et je n'ai jamais retouché aux commandes depuis. J'ai visé une orbite assez éloignée pour que la masse de ma station puisse permettre à de petits vaisseaux de s'ammarrer sans tomber dans le trou. Mais passé l'influence de ma station, si tu veux te rapprocher de Boréal, t'as intérêt a avoir une race de carburant, en tout cas si tu comptes revenir.
 
