@@ -1,1 +1,1 @@
-Go read the scenario
+Go read the [scenario](Scenario.md)
