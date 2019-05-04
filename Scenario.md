@@ -51,13 +51,13 @@ C'est à ce moment là que je me suis rendu compte que l'intégralité des être
 
 **Et on a vu. La vidéo a fait le tour de l'Espace Colonisé. C'était comment à vivre ?**
 
-C'est difficile à décrire, ce qu'on a vu. Mais ce qui est parfaitement certain, c'est qu'il avait un ressenti radicalement différent de ce qu'on voyait depuis ma station. Il était resté en communication vocale avec la salle de contrôle jusqu'au dernier moment, et si il était conscient de la déformation qu'on le voyait subir, il n'en laissait absolument rien paraître. Il se contentait de lire à haute voix son altitude par rapport à l'horizon du trou de manière monotone, régulièrement, tel un métronome bien réglé.
+C'est difficile à décrire, ce qu'on a vu. Mais ce qui est parfaitement certain, c'est qu'il avait un ressenti radicalement différent de ce qu'on voyait depuis ma station. Il était resté en communication vocale avec la salle de contrôle jusqu'au dernier moment, et si il était conscient de la déformation qu'on le voyait subir, il n'en laissait absolument rien paraître. Il se contentait de lire à haute voix son altitude par rapport à l'horizon du trou de manière monotone tel un métronome bien réglé.
 
 Puis au bout d'un temps qui nous a paru durer une éternité, sa voix s'est éteinte, immédiatement suivie de son image. Il avait disparu pour de bon de notre Univers.
 
-Ce fut comme un déclic pour la population de la station. Tous attendaient cette confirmation, consciemment ou non : Ça ne faisait pas mal de tomber dans Boréal, au moins jusqu'à l'horizon. Les logs reportent 37 vaisseaux partis vers l'avant ce jour là, à la poursuite de leur propre curiosité.
+Ce fut comme un déclic pour la population de la station. Tous attendaient cette confirmation, consciemment ou non : One ne ressentait pas spécialement de douleur en tombant dans Boréal, au moins jusqu'à l'horizon. Les logs reportent 37 vaisseaux partis vers l'avant ce jour là, à la poursuite de leur propre curiosité.
 
 C'est le lendemain qu'on a enregistré le premier départ d'un être en direction de l'univers. C'était sa compagne, qui retournait auprès de leur famille pour faire son deuil. L'histoire de son mari, et au passage l'histoire de ma station, fera le tour de la galaxie grâce à elle. Elle fut notre première messagère, malgré elle.
 
-Oui par ce qu'il faut comprendre un truc là. Aux abords de Boréal, l'espacetemps est tellement déformé qu'il est quasiement impossible de communiquer avec l'extérieur. Notre temps propre est bien trop dilaté par rapport au "reste de l'univers", et si nous pouvons "en théorie" communiquer, nous ne pouvons pas envoyer beaucoup d'informations.
+Oui par ce qu'il faut comprendre un truc là. Aux abords de Boréal, l'espacetemps est tellement déformé qu'il est quasiment impossible de communiquer avec l'extérieur. Notre temps propre est bien trop dilaté par rapport au "reste de l'univers", et si nous pouvons "en théorie" communiquer, nous ne pouvons pas envoyer beaucoup d'informations.
 
