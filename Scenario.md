@@ -6,11 +6,11 @@ Imagine ceci sur un site "genre news du futur".
 
 Depuis que l'humanité s'est étendue hors de la planète Terre il y a douze siècles - Gosh I sound like any twelve years old starting a 1200 characters tweet nowadays - elle a colonisé tous les systèmes à XXX années lumières à la ronde de la Terre Mère. 80% des YYY systèmes de ce morceau d'univers n'ont pas au moins une Station habitée en orbite. Et vous savez ce qu'on dit, 20% d'efforts pour 80% du résultat. Ca n'a même pas eu l'air d'avoir été si difficile, finalement.
 
-Oui, et le trou noir ? Bla blabla ?
+_Oui, et le trou noir ? Bla blabla ? On veut de la hype, là !_
 
-A la frange de l'Espace Colonisé, il y a un trou noir. _Le_ trou noir de l'humanité. 
+A la frange de l'Espace Colonisé, il y a un trou noir. _Le_ trou noir de l'humanité. Et je vais vous interviewer John Mandel, le capitaine de Cerf-Volant.
 
-Je vais vous interviewer John Mandel, le capitaine de Cerf-Volant. C'est la dernière Station spatiale avant le trou noir B22-564, aussi surnommé Boréal. C'est le plus gros trou répertorié et accessible aujourd'hui, même si "aujourd'hui" est une notion assez vague ici.
+C'est la dernière Station spatiale avant le trou noir B22-564, aussi surnommé Boréal. Le seul trou répertorié et accessible aujourd'hui, même si "aujourd'hui" est une notion assez vague ici.
 
 ## Interview
 **Qu'est-ce qui est particulier à la culture de la Station ?**
