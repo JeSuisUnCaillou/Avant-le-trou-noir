@@ -31,11 +31,11 @@ Si vous voulez savoir comment je suis arrivé à piloter seul une station _massi
 
 Et une fois que tu touches ce point parfait, tu le ressens. C'est comme si d'un coup la pente avait disparue, sauf que tu continues de glisser quand même, tu vois ?.. Non tu ne vois pas. Il faut l'avoir ressenti pour le comprendre, ça.
 
-Ouais, je me la raconte encore, à propos d'un truc qui s'est passé il y a 34 ans, je sais. Mais tu aurais dû voir les premiers vaisseaux s'ammarrer, c'était fou. J'ai baigné dans une euphorie constante pendant trois mois et puis... Et puis j'ai remarqué un vaisseau partir vers l'avant. Il était immatriculé dans Alpha du Centaure, j'me souviens. Un de ces petits modèles rouges pétant qu'ils font pour les kékés.
+Ouais, je me la raconte encore, à propos d'un truc qui s'est passé il y a 34 ans, je sais. Mais tu aurais dû voir les premiers vaisseaux s'ammarrer, c'était fou. J'ai baigné dans une euphorie constante pendant trois mois et puis... Et puis j'ai remarqué un vaisseau partir.
 
 **Le premier à être parti vers l'avant ?**
 
-Ah on vous en a déjà parlé, hein ?
+Ah on vous en a déjà parlé, hein ? Il était immatriculé dans Alpha du Centaure, j'me souviens. Un de ces petits modèles rouges pétant qu'ils font pour les kékés.
 
 Dans ma station, y'a toutes sortes de gens qui passent, mais très peu qui restent. Tous finissent un jour par partir par une rampe de lancement à l'avant. Et tous ceux qui empruntent une des rampes de lancement à l'avant ne reviennent jamais. Depuis que j'ai réussi la manoeuvre, j'ai vu passer 37 000 êtres. À peu de choses près, selon les logs.
 
