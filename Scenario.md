@@ -8,7 +8,7 @@ Depuis que l'humanité s'est étendue hors de la planète Terre il y a douze si�
 
 Oui, et le trou noir ? Bla blabla ?
 
-A la frange de l'Espace Colonisé, il y a un trou noir. LE trou noir de l'humanité. 
+A la frange de l'Espace Colonisé, il y a un trou noir. _Le_ trou noir de l'humanité. 
 
 Je vais vous interviewer xXx_Mandela_xXx, le capitaine de La dernière statation spatiale avant le trou noir B22-564, aussi surnommé Boréal. C'est le plus gros trou répertorié et accessible aujourd'hui, même si "aujourd'hui" est une notion assez vague ici.
 
