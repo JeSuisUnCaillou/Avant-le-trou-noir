@@ -27,7 +27,7 @@ Dans mon propre temps relatif, ça fait 34 ans que j'ai réussi cette manoeuvre.
 
 **Comment vous avez fait ?**
 
-Si vous voulez savoir comment je suis arrivé à piloter seul une station _massive_ sur une orbite aussi délicate. Eh bien figurez-vous qu'on peut brancher son sens de l'équilibre à une machine pour ressentir la courbure locale de l'espacetemps, et ensuite ça devient comme un jeu de glisse. C'est comme faire du ski sur la pente infiniement lisse de l'espacetemps aux abords de Boréal. Et le but du jeu, c'est de trouver l'angle parfait, associé à la vitesse parfaite, à l'endroit parfait et au moment parfait.
+Si vous voulez savoir comment je suis arrivé à piloter seul une station _massive_ sur une orbite aussi délicate. Eh bien figurez-vous qu'on peut brancher son sens de l'équilibre à une machine pour ressentir la courbure locale de l'espacetemps, et ensuite ça devient comme un jeu de glisse. C'est comme... faire du ski sur la pente infiniement lisse de l'espacetemps aux abords de Boréal. Et le but du jeu, c'est de trouver l'angle parfait, associé à la vitesse parfaite, à l'endroit parfait et au moment parfait pour entrer en orbite stable.
 
 Et une fois que tu touches ce point parfait, tu le ressens. C'est comme si d'un coup la pente avait disparue, sauf que tu continues de glisser quand même, tu vois ?.. Non tu ne vois pas. Il faut l'avoir ressenti pour le comprendre, ça.
 
@@ -35,19 +35,19 @@ Ouais, je me la raconte encore, à propos d'un truc qui s'est passé il y a 34 a
 
 **Le premier à être parti vers l'avant ?**
 
-Ah on vous en a parlé, hein ?
+Ah on vous en a déjà parlé, hein ?
 
 Dans ma station, y'a toutes sortes de gens qui passent, mais très peu qui restent. Tous finissent un jour par partir par une rampe de lancement à l'avant. Et tous ceux qui empruntent une des rampes de lancement à l'avant ne reviennent jamais. Depuis que j'ai réussi la manoeuvre, j'ai vu passer 37 000 êtres. À peu de choses près, selon les logs.
 
 Nous sommes 936 êtres sur la station "aujourd'hui", et de toute l'histoire de la station, seuls 4 sont repartis vers l'arrière. Tous les autres sont partis vers l'avant.
 
-Ouais, c'est raide.
+Ouais, c'est raide. Mais on s'y fait.
 
-Bref, le type avait craqué. "Prof" qu'on l'appelait. C'était un éminent chercheur qui avait passé sa vie à étudier les trous. Il devait sans doute être celui qui détenait la plus profonde compréhension des lois de la physique telles qu'on les connaissait, et j'aime à croire que c'est à cause de ça qu'il a craqué le premier. Il était un des premiers à être arrivé sur ma station, et depuis, il avait passé son temps à enseigner avec passion à tous ceux qui voulaient bien l'écouter.
+Bref, le type avait craqué. "Prof" qu'on l'appelait. C'était un éminent chercheur qui avait passé sa vie à étudier les trous. Il devait sans doute être celui qui détenait la plus profonde compréhension des lois de la physique telles qu'on les connaissait, et j'aime à croire que c'est à cause de ça qu'il a craqué le premier. Il était un des premiers à être arrivés sur ma station, et depuis, il avait passé son temps à enseigner la physique théorique à tous ceux qui voulaient bien l'écouter.
 
 Et puis il est parti vers l'avant. Sans prévenir personne.
 
-C'est à ce moment là que je me suis rendu compte que l'intégralité des êtres présents sur ma station étaient venus pour voir ça. La station a soudainement été baignée d'un silence absolu. Tous nous regardions le petit vaisseau rouge s'éloigner pour enfin voir ce qui allait lui arriver. La curiosité dans l'air était palpable.
+C'est à ce moment là que je me suis rendu compte que l'intégralité des êtres présents sur ma station étaient venus pour _voir_ ça. La station a soudainement été baignée d'un silence absolu. Tous nous regardions le petit vaisseau rouge s'éloigner pour enfin voir ce qui allait lui arriver. La curiosité dans l'air était palpable.
 
 **Et on a vu. La vidéo a fait le tour de l'Espace Colonisé. C'était comment à vivre ?**
 
