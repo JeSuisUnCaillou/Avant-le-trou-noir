@@ -1,6 +1,6 @@
 ![banner](https://github.com/JeSuisUnCaillou/Avant-le-trou-noir/blob/master/banner.jpg)
 
-Imagine ceci sur un site "genre news du futur".
+Imagine ceci sur un site de news, se situant dans le futur (genre an 3219).
 
 # La dernière station avant le trou noir
 
@@ -33,7 +33,7 @@ Et une fois que tu touches ce point parfait, tu le ressens. C'est comme si d'un 
 
 Ouais, je me la raconte encore, à propos d'un truc qui s'est passé il y a 34 ans, je sais. Mais tu aurais dû voir les premiers vaisseaux s'ammarrer, c'était fou. J'ai baigné dans une euphorie constante pendant trois mois et puis... Et puis j'ai remarqué un vaisseau partir.
 
-**Le premier à être parti vers l'avant ?**
+**Le premier à être parti vers l'avant ?**   
 
 Ah on vous en a déjà parlé, hein ? Il était immatriculé dans Alpha du Centaure, j'me souviens. Un de ces petits modèles rouges pétant qu'ils font pour les kékés.
 
