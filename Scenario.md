@@ -4,7 +4,7 @@ Imagine ceci sur un site de news, se situant dans le futur (genre an 3219).
 
 # La dernière station avant le trou noir
 
-Depuis que l'humanité s'est étendue hors de la planète Terre il y a douze siècles - Gosh I sound like any twelve years old starting a 1200 characters tweet nowadays - elle a colonisé tous les systèmes à XXX années lumières à la ronde de la Terre Mère. 80% des YYY systèmes de ce morceau d'univers n'ont pas au moins une Station habitée en orbite. Et vous savez ce qu'on dit, 20% d'efforts pour 80% du résultat. Ca n'a même pas eu l'air d'avoir été si difficile, finalement.
+Depuis que l'humanité s'est étendue hors de la planète Terre il y a douze siècles elle a colonisé tous les systèmes à XXX années lumières à la ronde de la Terre Mère. 80% des YYY systèmes de ce morceau d'univers n'ont pas au moins une Station habitée en orbite. Et vous savez ce qu'on dit, 20% d'efforts pour 80% du résultat. Ca n'a même pas eu l'air d'avoir été si difficile, finalement.
 
 _Oui, et le trou noir ? Bla blabla ? On veut de la hype, là !_
 
