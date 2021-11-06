@@ -61,3 +61,5 @@ C'est le lendemain qu'on a enregistré le premier départ d'un être en directio
 
 Oui par ce qu'il faut comprendre un truc là. Aux abords de Boréal, l'espacetemps est tellement déformé qu'il est quasiment impossible de communiquer avec l'extérieur. Notre temps propre est bien trop dilaté par rapport au "reste de l'univers", et si nous pouvons "en théorie" communiquer, nous ne pouvons pas envoyer beaucoup d'informations.
 
+
+NOTE : A la fin de l'interview, c'est en fait le capitaine lui-même qui annonce qu'il va partir dans le trou noir, et quand il y va il décrit toutes ses sensations jusqu'à ce qu'on ne l'entende plus. Tout le monde l'attendait sans le savoir, mais maintenant tout le monde le sait : ça n'a pas l'air de faire mal. Alors les gens décollent vers ce nouvel inconnu (car tout est connu dans la galaxie). -> Nouvelle plus "positive", mode "nouveau far west" plutôt que mode déprime.
